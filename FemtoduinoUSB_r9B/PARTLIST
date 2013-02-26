@@ -1,0 +1,39 @@
+Partlist
+
+Exported from femtoduinoUSB.brd at 2/26/13 12:07 AM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value           Package                 Library            Position (inch)       Orientation
+
+C1       10uF            EIA3528-21/B-W          microbuilder       (0.15748031 0.16141732) R180
+C2       10uF            EIA3528-21/B-W          microbuilder       (0.15629921 0.38858268) R0
+C3       0.1uF           0402                    microbuilder       (0.0933937 0.46600394) R180
+C4       0.1uF           0402                    microbuilder       (0.43041732 0.44640945) R270
+C5       0.1uF           0402                    microbuilder       (0.63612598 0.37053543) MR90
+C6       0.1uF           0402                    microbuilder       (0.34512598 0.24040945) R0
+C7       0.1uF           0402                    microbuilder       (0.43267717 0.47047244) MR180
+C8       0.1uF           0402                    microbuilder       (0.32570866 0.19690551) MR180
+C9       0.1uF           0402                    microbuilder       (0.43267717 0.4206063) MR180
+IC1                      MLF32                   SparkFun-DigitalIC (0.54644094 0.25166929) R0
+IC2      FT231XQ-R       FTDI_FT231XQ-R_PACKAGE  ftdi_ft231xq-r     (0.59566929 0.20748031) MR90
+LED1     D1              CHIPLED_0805            microbuilder       (0.30214173 0.34916535) R180
+LED2                     CHIPLED_0805            microbuilder       (0.75590551 0.10532283) R0
+R1       330             0402                    microbuilder       (0.20359843 0.46900394) R180
+R2       10K             0402                    microbuilder       (0.09304724 0.08047244) R180
+R3       330             0402                    microbuilder       (0.69755118 0.08040157) R90
+R4       27              0402                    microbuilder       (0.42416535 0.10429921) MR180
+R5       27              0402                    microbuilder       (0.32572441 0.14729921) MR180
+SJ1      SPST_SMD        SPST_SMD                ftdi_ft231xq-r     (0.32086614 0.36259843) MR0
+SJ2      SPST_SMD        SPST_SMD                ftdi_ft231xq-r     (0.32086614 0.32244094) MR0
+SJ3      SPST_SMD        SPST_SMD                ftdi_ft231xq-r     (0.32086614 0.28228346) MR0
+SJ4      SPST_SMD        SPST_SMD                ftdi_ft231xq-r     (0.32086614 0.24212598) MR180
+U$2      05_PINHEAD_1X6  05_PINHEAD_1X6_PACKAGE  ftdi_ft231xq-r     (0.75551181 0.22716535) R0
+U$3      05_PINHEAD_1X8  05_PINHEAD_1X8_PACKAGE  ftdi_ft231xq-r     (0.57937008 0.0519685) R90
+U$4      05_PINHEAD_1X14 05_PINHEAD_1X14_PACKAGE ftdi_ft231xq-r     (0.02976378 0.54606299) R270
+U$5      CSTCE16MOV51-RO CSTCE16M0V51-RO_PACKAGE ftdi_ft231xq-r     (0.30751181 0.15616535) R270
+U$6      SPST_SMD        SPST_SMD                ftdi_ft231xq-r     (0.08299213 0.03640157) R180
+U1       MIC5205         LDO_REGULATOR           ftdi_ft231xq-r     (0.13307087 0.27677165) R270
+USB1     USB_MICROB      USB_MICROB_PACKAGE      ftdi_ft231xq-r     (0.19291339 0.26771654) MR90
