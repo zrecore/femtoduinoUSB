@@ -240,21 +240,15 @@
 <wire x1="-2" y1="-2" x2="-1.4" y2="-2" width="0.127" layer="21"/>
 <wire x1="1.4" y1="-2" x2="2" y2="-2" width="0.127" layer="21"/>
 <wire x1="-2" y1="-2" x2="-2" y2="-1.4" width="0.127" layer="21"/>
-<wire x1="-2" y1="1.5" x2="-2" y2="1.7" width="0.127" layer="21"/>
-<wire x1="-2" y1="1.7" x2="-2" y2="1.8" width="0.127" layer="21"/>
-<wire x1="-2" y1="1.8" x2="-2" y2="1.9" width="0.127" layer="21"/>
+<wire x1="-2" y1="1.5" x2="-2" y2="1.9" width="0.127" layer="21"/>
 <wire x1="-2" y1="1.9" x2="-2" y2="2" width="0.127" layer="21"/>
 <wire x1="-2" y1="2" x2="-1.5" y2="2" width="0.127" layer="21"/>
 <wire x1="1.4" y1="2" x2="2" y2="2" width="0.127" layer="21"/>
 <wire x1="2" y1="2" x2="2" y2="1.4" width="0.127" layer="21"/>
 <wire x1="2" y1="-1.4" x2="2" y2="-2" width="0.127" layer="21"/>
-<wire x1="-2" y1="1.5" x2="-1.9" y2="1.6" width="0.127" layer="21"/>
-<wire x1="-1.9" y1="1.6" x2="-1.8" y2="1.7" width="0.127" layer="21"/>
+<wire x1="-2" y1="1.5" x2="-1.8" y2="1.7" width="0.127" layer="21"/>
 <wire x1="-1.8" y1="1.7" x2="-1.5" y2="2" width="0.127" layer="21"/>
 <wire x1="-2" y1="1.9" x2="-1.8" y2="1.7" width="0.127" layer="21"/>
-<wire x1="-2" y1="1.7" x2="-1.9" y2="1.6" width="0.127" layer="21"/>
-<wire x1="-1.9" y1="1.6" x2="-1.9" y2="1.7" width="0.127" layer="21"/>
-<wire x1="-1.9" y1="1.7" x2="-2" y2="1.8" width="0.127" layer="21"/>
 </package>
 </packages>
 <symbols>
