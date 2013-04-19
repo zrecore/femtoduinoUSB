@@ -3,10 +3,10 @@ femtoduinoUSB
 
 Works?
 
-r9B - NO
-r9C - NO
-r10 - YES
-r11 - NO
+* r9B - NO
+* r9C - NO
+* r10 - YES
+* r11 - NO
 
 
 FemtoduinoUSB ATMEGA328P-MU Arduino Clone. Originally based on the Femtoduino by Fabio Varesano. Modified by Alex Albino.
