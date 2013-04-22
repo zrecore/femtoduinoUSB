@@ -6,7 +6,8 @@ Works?
 * r9B - NO
 * r9C - NO
 * r10 - YES
-* r11 - NO
+* r11 - YES (Small through-hole vias, assert your fab can handle these first!)
+* r12 - YES (Through-hole vias enlarged to .2mm drill hole size)
 
 
 FemtoduinoUSB ATMEGA328P-MU Arduino Clone. Originally based on the Femtoduino by Fabio Varesano. Modified by Alex Albino.
