@@ -16,3 +16,8 @@ The femtoduino, and femtoduinoUSB is released under the following license:
 
    CC-BY-SA 3.0 Unported
    http://creativecommons.org/licenses/by-sa/3.0/
+
+The USB to UART circuit was completed in part thanks to Jim Paris' super-awesome MicroFTX schematics (http://jim.sh/ftx/), which are released under the following license:
+
+   Creative Commons Attribution-ShareAlike 3.0 Unported License
+   http://creativecommons.org/licenses/by-sa/3.0/
