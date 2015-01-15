@@ -1,0 +1,24 @@
+[Eagle]
+Version="06 05 00"
+Platform="Linux"
+Serial="7206DF6B3F-LS-WLM-1CS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/aalbino/Projects/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="ohw-logo.lbr"
+UsedLibrary="femtoduino.lbr"
+UsedLibrary="ftdi_ft231xq-r.lbr"
+UsedLibrary="/home/aalbino/eagle-6.5.0/lbr/microbuilderlibrary_v2/microbuilder.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="65 24 664 423"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
