@@ -1,0 +1,27 @@
+"Part";"Value";"Device/Manufacturer";"Package";"Description"
+"C1";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C2";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C3";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C4";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C5";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C6";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C7";"0.1uF";"C1005X7R1A104K050BB";"0402";"Ceramic Capacitors"
+"C8";"10uF";"TAJA106K016RNJ";"EIA3216-18/A-R";"Tantalum Capacitors"
+"C9";"10uF";"TAJA106K016RNJ";"EIA3216-18/A-R";"Tantalum Capacitors"
+"LED1";"RED";"598-8010-102F";"0603";"LED"
+"LED2";"GREEN";"598-8070-102F";"0603";"LED"
+"R1";"27";"CRCW040227R0FKED";"0402";"Resistors"
+"R2";"27";"CRCW040227R0FKED";"0402";"Resistors"
+"R3";"330";"CRCW0402330RJNED";"0402";"Resistors"
+"R4";"10K";"CRCW040210K0JNEDHP";"0402";"Resistors"
+"R5";"330";"CRCW0402330RJNED";"0402";"Resistors"
+"U$1";"FT230XQ";"FT230XQ-R";"QFN-16";
+"U$2";"DNP";;;
+"U$3";"DNP";;;
+"U$4";"DNP";;;
+"U$6";"USB_MICROB";"ZX62-B-5PA(11)";"USB_MICROB_PACKAGE";"This is the hirose ZX62-B-5PA(11) MICRO-USB B Type female connection."
+"U$10";"LDO_REGULATOR";"TPS76350DBVR";"LDO_REGULATOR";
+"U$17";"DNP";;;
+"U$22";"16MHz";"CSTCE16M0V51-R0";"CSTCE16M0V51-RO_PACKAGE";"This is the CSTCE16M0V51-R0 Murata resonator (CERALOCK) 16Mhz 0.5% Tolerance"
+"U$28";"DNP";;;
+"U1";"ATMEGA328MLF";"ATMEGA328P-MU";"MLF32";"Atmel 32-pin 8-bit micro, 32k flash."
